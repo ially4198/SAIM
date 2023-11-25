@@ -57,7 +57,7 @@ nav{
     
 }
 .ndiv2{
-    margin-right: 0px;
+    margin-right: 5px;
     display: flex;
    font-size: 16px;
    font-family: "source sans pro topnav", sans-serif;
@@ -134,7 +134,7 @@ display: flex;
 }
 .ndiv5{
     display: flex;
-    margin-left: 65px;
+    margin-left: 55px;
 }
 .ndiv5 button{
     border-radius: 20px;
@@ -151,7 +151,7 @@ display: flex;
 .b2{
     
     border: none;
-    background-color: rgb(164, 212, 164);
+    background-color: #D9EEE1;
     width: 100px;
     margin-left: -12px;
     padding-left: 30px;
